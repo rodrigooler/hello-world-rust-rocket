@@ -1,4 +1,4 @@
-# hello-world-rust-rocket
+# Hello World with Rust + Rocket
 Simple example of a rest app using rust + rocket
 
 ### Install Rust + Rocket
